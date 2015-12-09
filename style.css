@@ -41,7 +41,7 @@ body {
 
 #exploreJourney {
 	background-image: url("http://24.media.tumblr.com/ef967941999d66a73750434d8d38c00a/tumblr_mrnsctiMrU1s933afo1_500.gif");
-	background-position: bottom center;
+	background-position: top center;
 
 }
 
@@ -49,7 +49,7 @@ body {
 	position: absolute;
 	color: white;
 	position: absolute;
-    padding: 50px 40px;
+    padding: 20px 10px;
     color: white;
     font-size: 6em;
     box-shadow: 5px 5px 20px #84999A;
