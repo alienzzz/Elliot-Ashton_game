@@ -4,8 +4,8 @@ $( document ).ready(function() {
 		$("#exploreJourney").css("background-image", "url('http://24.media.tumblr.com/ef967941999d66a73750434d8d38c00a/tumblr_mrnsctiMrU1s933afo1_500.gif')");
 		$("#goRight1").hide();
 		$("#goBack").hide();
-		$("#goStraight1").show();
-		$("#goLeft1").hide();
+		$("#goRight-Straight1").show();
+		$("#goRight-Right2").hide();
 	});
 
 	$("#goStraight1	").click(function() {
@@ -14,19 +14,19 @@ $( document ).ready(function() {
 		$("#goRight-Straight2").show();
 	});
 
-	$("#goRight-Straight2").click(function() {
+	$("#goLeft1").click(function() {
 		$("#exploreBody").css("background-image", "url('img/exploreRight3.jpg')");
 		$("#goRight-Straight2").hide();
 		$("#goRight-Straight3").show();
 	});
 
-	$("#goRight-Straight3").click(function() {
+	$("#goRight").click(function() {
 		$("#exploreBody").css("background-image", "url('img/exploreRight3.jpg')");
 		$("#goRight-Straight3").hide();
 		$("#goRight-Right2").show();
 	});
 
-	$("#goRight-Right2").click(function() {
+	$("#goRight").click(function() {
 		$("#exploreBody").css("background-image", "url('img/explore2-goBack2.jpg')");
 		$("#goRight-Right2").hide();
 		$("#goBack").show();
