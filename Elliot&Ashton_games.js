@@ -9,13 +9,13 @@ $( document ).ready(function() {
 	});
 
 	$("#goStraight1	").click(function() {
-		$("#exploreJourney").css("background-image", "url('../video/scarytent.jpg')");
+		$("#exploreJourney").css("background-image", "url('../video/scarytent')");
 		$("#goRight-Straight1").hide();
 		$("#goRight-Straight2").show();
 	});
 
 	$("#goLeft1").click(function() {
-		$("#exploreBody").css("background-image", "url('../video/scarytent.jpg')");
+		$("#exploreBody").css("background-image", "url('../video/scarytent')");
 		$("#goRight-Straight2").hide();
 		$("#goRight-Straight3").show();
 	});
