@@ -1,7 +1,7 @@
 $( document ).ready(function() {
 
 	$("#campingJourney").click(function() {
-		$("#exploreJourney").css("background-image", "url('http://24.media.tumblr.com/ef967941999d66a73750434d8d38c00a/tumblr_mrnsctiMrU1s933afo1_500.gif')");
+		$("#exploreJourney").css("background-image", "url('http://pre04.deviantart.net/af06/th/pre/i/2013/216/b/8/creepy_road_by_obnoxiousnox-d6gp23a.jpg')");
 		$("#goRight1").hide();
 		$("#goBack").hide();
 		$("#goRight-Straight1").show();
