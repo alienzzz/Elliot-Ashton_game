@@ -21,7 +21,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight").click(function() {
-		$("#exploreBody").css("background-image", "url('img/exploreRight3.jpg')");
+		$("#exploreBody").css("background-image", "url('../img/slenderman+teddy.png')");
 		$("#goRight-Straight3").hide();
 		$("#goRight-Right2").show();
 	});
