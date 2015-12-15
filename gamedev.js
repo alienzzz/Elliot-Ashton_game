@@ -9,7 +9,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight-Straight1").click(function() {
-		$("#exploreBody").css("background-image", "url(' http://postimg.org/image/dn46lyy51/')");
+		$("#exploreBody").css("background-image", "url('http://www.darkhorrorgames.com/games/images/slenderman-2d-featured.jpg')");
 		$("#goRight-Straight1").hide();
 		$("#goRight-Straight2").show();
 	});
