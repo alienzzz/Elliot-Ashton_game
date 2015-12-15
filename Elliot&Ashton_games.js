@@ -9,13 +9,13 @@ $( document ).ready(function() {
 	});
 
 	$("#goStraight1	").click(function() {
-		$("#exploreJourney").css("background-image", "url('../video/scarytent')");
+		$("#exploreJourney").css("background-image", "url('http://bicycletouringpro.com/blog/wp-content/uploads/2014/04/scary.jpg-588x392.jpg')");
 		$("#goRight-Straight1").hide();
 		$("#goRight-Straight2").show();
 	});
 
 	$("#goLeft1").click(function() {
-		$("#exploreBody").css("background-image", "url('../video/scarytent')");
+		$("#exploreBody").css("background-image", "url('http://bicycletouringpro.com/blog/wp-content/uploads/2014/04/scary.jpg-588x392.jpg')");
 		$("#goRight-Straight2").hide();
 		$("#goRight-Straight3").show();
 	});
@@ -27,33 +27,33 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight").click(function() {
-		$("#exploreBody").css("background-image", "url('img/explore2-goBack2.jpg')");
+		$("#exploreBody").css("background-image", "url('http://bicycletouringpro.com/blog/wp-content/uploads/2014/04/scary.jpg-588x392.jpg')");
 		$("#goRight-Right2").hide();
 		$("#goBack").show();
 	});
 
 
 	$("#goLeft1").click(function() {
-		$("#exploreBody").css("background-image", "url('')");
+		$("#exploreBody").css("background-image", "url('http://bicycletouringpro.com/blog/wp-content/uploads/2014/04/scary.jpg-588x392.jpg')");
 		$("#goLeft1").hide();
 		$("#goLeft2").show();
 	});
 
 	$("#goLeft-Straight1").click(function() {
-		$("#exploreBody").css("background-image", "url('img/exploreLeft2.jpg')");
+		$("#exploreBody").css("background-image", "url('http://bicycletouringpro.com/blog/wp-content/uploads/2014/04/scary.jpg-588x392.jpg')");
 		$("#goLeft2").hide();
 		$("#goLeft3").show();
 	});
 
 	$("#goLeft-Straight2").click(function() {
-		$("#exploreBody").css("background-image", "url('img/exploreLeft3.jpg')");
+		$("#exploreBody").css("background-image", "url('http://bicycletouringpro.com/blog/wp-content/uploads/2014/04/scary.jpg-588x392.jpg')");
 		$("#goLeft3").hide();
 		$("#goBack").show();
 	});
 
 
 	$("#goBack").click(function() {
-		$("#exploreBody").css("background-image", "url('../video/scarytent')");
+		$("#exploreBody").css("background-image", "url('http://bicycletouringpro.com/blog/wp-content/uploads/2014/04/scary.jpg-588x392.jpg')");
 		$("#goBack").hide();
 		$("#goRight1").show();
 		$("#goLeft1").show();
