@@ -1,7 +1,7 @@
 $( document ).ready(function() {
 
 	$("#goRight1").click(function() {
-		$("#exploreBody").css("background-image", "url('http://vignette4.wikia.nocookie.net/have-fun/images/1/11/The_dark_creepy_sowy_road.jpg/revision/latest?cb=20130425220158')");
+		$("#exploreBody").css("background-image", "url('http://bicycletouringpro.com/blog/wp-content/uploads/2014/04/scary.jpg-588x392.jpg')");
 		$("#goRight1").hide();
 		$("#goBack").hide();
 		$("#goRight-Straight1").show();
