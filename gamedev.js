@@ -1,7 +1,7 @@
 $( document ).ready(function() {
 
 	$("#goRight1").click(function() {
-		$("#exploreBody").css("background-image", "url('http://bicycletouringpro.com/blog/wp-content/uploads/2014/04/scary.jpg-588x392.jpg')");
+		$("#exploreBody").css("background-image", "url('http://bicycletouringpro.com/blog/wp-content/uploads/2014/04/scary.jpg-588x392.jpg-588x392')");
 		$("#goRight1").hide();
 		$("#goBack").hide();
 		$("#goRight-Straight1").show();
@@ -9,7 +9,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight-Straight1").click(function() {
-		$("#exploreBody").css("background-image", "url('http://bicycletouringpro.com/blog/wp-content/uploads/2014/04/scary.jpg-588x392.jpg')");
+		$("#exploreBody").css("background-image", "url(' http://postimg.org/image/dn46lyy51/')");
 		$("#goRight-Straight1").hide();
 		$("#goRight-Straight2").show();
 	});
