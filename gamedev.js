@@ -9,7 +9,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight-Straight1").click(function() {
-		$("#exploreBody").css("background-image", "url('http://www.jdthunder.com/wp-content/uploads/2015/03/sc2-1024x575.jpg')");
+		$("#exploreBody").css("background-image", "url('http://www.directupload.net/file/d/4203/wgphokdv_png.htm')");
 		$("#goRight-Straight1").hide();
 		$("#goRight-Straight2").show();
 	});
