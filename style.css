@@ -11,7 +11,7 @@ body {
 
 .titleContent {
 	margin: 10% auto;
-    text-align: center;
+    text-align: center; 
 }
 
 .splashTitle {
@@ -41,7 +41,7 @@ body {
 
 #exploreJourney {
 	background-image: url("http://bicycletouringpro.com/blog/wp-content/uploads/2014/04/scary.jpg-588x392.jpg");
-	background-position: center;
+	background-position: bottom center;
 
 }
 
