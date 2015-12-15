@@ -53,7 +53,7 @@ $( document ).ready(function() {
 
 
 	$("#goBack").click(function() {
-		$("#exploreBody").css("background-image", "url('img/exploreHome1.jpg')");
+		$("#exploreBody").css("background-image", "url('../video/scarytent')");
 		$("#goBack").hide();
 		$("#goRight1").show();
 		$("#goLeft1").show();
