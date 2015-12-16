@@ -27,7 +27,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight-Right2").click(function() {
-		$("#exploreBody").css("background-image", "url('http://bicycletouringpro.com/blog/wp-content/uploads/2014/04/scary.jpg-588x392.jpg')");
+		$("#exploreBody").css("background-image", "url('http://img1.wikia.nocookie.net/__cb20110428131948/creepypasta/images/2/2a/Slender_forest.jpg')");
 		$("#goRight-Right2").hide();
 		$("#goBack").show();
 	});
