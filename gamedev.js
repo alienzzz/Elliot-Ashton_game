@@ -21,7 +21,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight-Straight3").click(function() {
-		$("#exploreBody").css("background-image", "url('https://c1.staticflickr.com/9/8486/8232089656_8128fc2c9c_z.jpg')");
+		$("#exploreBody").css("background-image", "url('')");
 		$("#goRight-Straight3").hide();
 		$("#goRight-Right2").show();
 	});
