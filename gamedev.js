@@ -34,7 +34,7 @@ $( document ).ready(function() {
 
 
 	$("#goLeft1").click(function() {
-		$("#exploreBody").css("background-image", "url('')");
+		$("#exploreBody").css("background-image", "url('http://pre07.deviantart.net/e87d/th/pre/i/2010/088/2/7/the_slender_man_by_kreatur_im_spiegel.jpg')");
 		$("#goLeft1").hide();
 		$("#goLeft2").show();
 	});
