@@ -21,7 +21,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight-Straight3").click(function() {
-		$("#exploreBody").css("background-image", "url('http://orig04.deviantart.net/1216/f/2012/081/8/9/forest_slender_man_by_wartora-d4tku5g.png')");
+		$("#exploreBody").css("background-image", "url('https://c1.staticflickr.com/9/8486/8232089656_8128fc2c9c_z.jpg')");
 		$("#goRight-Straight3").hide();
 		$("#goRight-Right2").show();
 	});
@@ -34,19 +34,19 @@ $( document ).ready(function() {
 
 
 	$("#goLeft1").click(function() {
-		$("#exploreBody").css("background-image", "url('http://bicycletouringpro.com/blog/wp-content/uploads/2014/04/scary.jpg-588x392.jpg')");
+		$("#exploreBody").css("background-image", "url('')");
 		$("#goLeft1").hide();
 		$("#goLeft2").show();
 	});
 
 	$("#goLeft-Straight1").click(function() {
-		$("#exploreBody").css("background-image", "url('img/exploreLeft2.jpg')");
+		$("#exploreBody").css("background-image", "url('')");
 		$("#goLeft2").hide();
 		$("#goLeft3").show();
 	});
 
 	$("#goLeft-Straight2").click(function() {
-		$("#exploreBody").css("background-image", "url('img/exploreLeft3.jpg')");
+		$("#exploreBody").css("background-image", "url('')");
 		$("#goLeft3").hide();
 		$("#goBack").show();
 	});
