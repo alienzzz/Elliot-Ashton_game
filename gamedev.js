@@ -9,19 +9,19 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight-Straight1").click(function() {
-		$("#exploreBody").css("background-image", "url('http://www.directupload.net/file/d/4203/wgphokdv_png.htm')");
+		$("#exploreBody").css("background-image", "url('http://www.arcade-games-web.com/slender_game/sightings/Slender_Man_Sighting_059.jpg')");
 		$("#goRight-Straight1").hide();
 		$("#goRight-Straight2").show();
 	});
 
 	$("#goRight-Straight2").click(function() {
-		$("#exploreBody").css("background-image", "url('http://http://orig10.deviantart.net/1c2c/f/2013/213/a/e/dark_forest_by_narcotic_nightmares-d6g6fgr.png')");
+		$("#exploreBody").css("background-image", "url('')");
 		$("#goRight-Straight2").hide();
 		$("#goRight-Straight3").show();
 	});
 
 	$("#goRight-Straight3").click(function() {
-		$("#exploreBody").css("background-image", "url('https://s-media-cache-ak0.pinimg.com/originals/1a/10/20/1a1020c836d312075e3157b5c61c451d.jpg')");
+		$("#exploreBody").css("background-image", "url('')");
 		$("#goRight-Straight3").hide();
 		$("#goRight-Right2").show();
 	});
