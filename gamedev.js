@@ -21,7 +21,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight-Straight3").click(function() {
-		$("#exploreBody").css("background-image", "url('')");
+		$("#exploreBody").css("background-image", "url('http://img06.deviantart.net/aa90/i/2013/131/b/2/slenderman_in_the_forest_by_shizuriiku-d64y5q9.jpg')");
 		$("#goRight-Straight3").hide();
 		$("#goRight-Right2").show();
 	});
