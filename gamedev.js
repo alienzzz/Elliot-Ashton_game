@@ -21,7 +21,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight-Straight3").click(function() {
-		$("#exploreBody").css("background-image", "url('')");
+		$("#exploreBody").css("background-image", "url('http://orig04.deviantart.net/1216/f/2012/081/8/9/forest_slender_man_by_wartora-d4tku5g.png')");
 		$("#goRight-Straight3").hide();
 		$("#goRight-Right2").show();
 	});
