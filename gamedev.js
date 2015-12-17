@@ -1,7 +1,7 @@
 $( document ).ready(function() {
 
 	$("#goRight1").click(function() {
-		$("#exploreBody").css("background-image", "url('http://bicycletouringpro.com/blog/wp-content/uploads/2014/04/scary.jpg-588x392.jpg-588x392')");
+		$("#exploreBody").css("background-image", "url('http://i1.kym-cdn.com/photos/images/newsfeed/000/033/197/slenderman.gif')");
 		$("#goRight1").hide();
 		$("#goBack").hide();
 		$("#goRight-Straight1").show();
@@ -46,7 +46,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goLeft-Straight2").click(function() {
-		$("#exploreBody").css("background-image", "url('http://orig11.deviantart.net/c595/f/2013/213/6/2/slender_man_stalks__gif__by_redsoul77-d6g1k1m.gif')");
+		$("#exploreBody").css("background-image", "url('http://orig11.deviantart.net/c595/f/2013/213/6/2/slender_man_stalks__gif__by_redsoul77-d6g1k1m.gif ')");
 		$("#goLeft3").hide();
 		$("#goBack").show();
 	});
