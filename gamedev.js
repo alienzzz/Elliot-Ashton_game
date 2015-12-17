@@ -1,7 +1,7 @@
 $( document ).ready(function() {
 
 	$("#goRight1").click(function() {
-		$("#exploreBody").css("background-image", "url('http://i1.kym-cdn.com/photos/images/newsfeed/000/033/197/slenderman.gif')");
+		$("#exploreBody").css("background-image", "url('http://i1.wp.com/www.iniciativanerd.com.br/wp-content/uploads/2012/08/Slenderforest1-2.jpg?resize=434%2C500')");
 		$("#goRight1").hide();
 		$("#goBack").hide();
 		$("#goRight-Straight1").show();
