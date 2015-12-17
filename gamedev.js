@@ -40,13 +40,13 @@ $( document ).ready(function() {
 	});
 
 	$("#goLeft-Straight1").click(function() {
-		$("#exploreBody").css("background-image", "url('')");
+		$("#exploreBody").css("background-image", "url('http://img13.deviantart.net/01ac/i/2012/324/c/5/slender_man_hunt_6_by_ray_kanen-d5lkond.jpg')");
 		$("#goLeft2").hide();
 		$("#goLeft3").show();
 	});
 
 	$("#goLeft-Straight2").click(function() {
-		$("#exploreBody").css("background-image", "url('')");
+		$("#exploreBody").css("background-image", "url('http://orig11.deviantart.net/c595/f/2013/213/6/2/slender_man_stalks__gif__by_redsoul77-d6g1k1m.gif')");
 		$("#goLeft3").hide();
 		$("#goBack").show();
 	});
